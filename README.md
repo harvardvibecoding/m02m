@@ -1,3 +1,9 @@
-# m02m
+Continuing on from the prior unit, this project contails the resulting output of the instructor's AI when prompted for the equity percentage feature in `people_headcount_app.py`.  The learner may optionally start prompting from here for testing iteration.
 
-Equity percentage added to impact score. Starting point for testing iteration.
+To run the Streamlit app:
+
+```bash
+streamlit run people_headcount_app.py
+```
+
+
